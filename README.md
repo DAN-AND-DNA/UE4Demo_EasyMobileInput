@@ -1,4 +1,4 @@
-# UE4Demo_EasyMobileInput
+# UE4_EasyMobileInput
 
 
 Any suggestions for modification and bugs can be made here
