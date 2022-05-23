@@ -8,6 +8,11 @@
 			"Name": "MMoInput",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9083c3168bb944129bbae10800cfc3b5"
+		},
+		{
+			"Name": "SafeDelete",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/daf26df8b4c94149900ea0dd0a264071"
 		}
 	]
 }
